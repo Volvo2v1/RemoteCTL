@@ -22,7 +22,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ''''''
- Example IFGAF_ABOUT_SECURITY.exe Startup:
+ Example IDGAF_ABOUT_SECURITY.exe Startup:
   Unix:
 	$:    FLASK_APP=server.py flask run --host=192.168.0.1 --port=1337
   Windows:
